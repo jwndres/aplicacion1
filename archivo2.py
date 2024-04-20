@@ -1,2 +1,2 @@
 name = "juan"
-print(name)
+nombre = input("por favor ingrese su nombre: ")
